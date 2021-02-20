@@ -1,0 +1,137 @@
+.cl_header_button{
+    height:76px;
+    padding-top:0 !important;
+    padding-bottom:0 !important;
+    line-height:76px !important;
+    padding-left:50px !important;
+    padding-right:50px !important;
+}
+
+.cl-header__col--right{
+    padding-right:0px;
+}
+
+.fluid_img{
+    position: relative;
+top: 0px;
+}
+
+.cl-footer ul li a{
+    font-weight:400 !important;
+    text-transform:none !important;
+}
+
+
+
+.cl-btn--size-large {
+font-size: 18px;
+font-weight: 500;
+padding: 6px 70px;
+}
+.cl-btn--style-rounded {
+border-radius: 0;
+    background-color: transparent !important;
+    color:#202020 !important;
+    font-weight: 300;
+}
+.cl-btn--style-rounded:hover {
+border-radius: 0;
+    background-color: #202020 !important;
+    color:#1E2E3E;
+    font-weight: 300;
+    color: #fff !important;
+}
+.column_fluid {
+position: relative !important;
+margin-left: -50px !important;
+z-index: 9999;
+margin-right: -100px;
+width: calc(50% + 100px) !important;
+}
+.cl-testimonial-top .cl-testimonial-item img {
+max-width: 130px;
+margin-bottom: 40px;
+border-radius: 50% !important;
+}
+.cl-entry-single-navigation .single-post-nav__wrapper img {
+width: 64px;
+height: 64px;
+max-width: none;
+border-radius: 2px;
+}
+input:not([type="checkbox"]), textarea, select {
+
+font-family: Roboto;
+}
+.fas fa-at{
+    color: #fff !important;
+    font-size: 21px !important;
+}.aio-contact-parent .aio-contact-blocks .aio-contact-block .aio-contact-block-icon i {
+font-size: 1.5em;
+color: #fff;
+font-weight: 700;
+}
+
+
+
+.cl-contact-form--style-minimal .wpcf7-form-control:not([type="submit"]) {
+background: none;
+border: none;
+border: 1px solid #cfd1d2;
+}
+.cl-contact-form--style-minimal p {
+text-align: left;
+padding-top: 15px;
+font-style: italic;
+}
+.cl-contact-form--style-minimal input[type="submit"] {
+margin-top: 0px;
+}
+h4:not(.cl-custom-font), .h4, .cl-element h4, .cl-btn--style-only_text {
+font-family: Manrope;
+font-size: 18px;
+font-weight: 500 !important;
+letter-spacing: 1px;
+line-height: 1.2;
+text-transform: uppercase;
+font-size: 17px !important;
+}
+
+
+h1:not(.cl-custom-font), .h1 {
+    font-family: Manrope;
+    font-size: 50px !important;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: none;
+    }
+.cl-header__col--middle {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    display: none;
+}
+.cl-header--divider .cl-header__row--top .cl-header__col {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.cl-blog--style-modern .cl-entry__media {
+    height: 350px;
+    position: relative;
+    top: 45px !important
+}
+cl-blog--style-modern .cl-entry__wrapper {
+    flex-direction: row;
+    min-height: 350px !important;
+    max-height: 350px !important;
+    overflow: hidden;
+    flex-wrap: nowrap;
+}
+
+
+
+
+
+
+
