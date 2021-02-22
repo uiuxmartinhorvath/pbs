@@ -1,137 +1,159 @@
-.cl_header_button{
-    height:76px;
-    padding-top:0 !important;
-    padding-bottom:0 !important;
-    line-height:76px !important;
-    padding-left:50px !important;
-    padding-right:50px !important;
-}
-
-.cl-header__col--right{
-    padding-right:0px;
-}
-
-.fluid_img{
-    position: relative;
-top: 0px;
-}
-
-.cl-footer ul li a{
-    font-weight:400 !important;
-    text-transform:none !important;
-}
-
-
 
 .cl-btn--size-large {
-font-size: 18px;
-font-weight: 500;
-padding: 6px 70px;
-}
-.cl-btn--style-rounded {
-border-radius: 0;
-    background-color: transparent !important;
-    color:#202020 !important;
-    font-weight: 300;
-}
-.cl-btn--style-rounded:hover {
-border-radius: 0;
-    background-color: #202020 !important;
-    color:#1E2E3E;
-    font-weight: 300;
-    color: #fff !important;
-}
-.column_fluid {
-position: relative !important;
-margin-left: -50px !important;
-z-index: 9999;
-margin-right: -100px;
-width: calc(50% + 100px) !important;
-}
-.cl-testimonial-top .cl-testimonial-item img {
-max-width: 130px;
-margin-bottom: 40px;
-border-radius: 50% !important;
-}
-.cl-entry-single-navigation .single-post-nav__wrapper img {
-width: 64px;
-height: 64px;
-max-width: none;
-border-radius: 2px;
-}
-input:not([type="checkbox"]), textarea, select {
-
-font-family: Roboto;
-}
-.fas fa-at{
-    color: #fff !important;
-    font-size: 21px !important;
-}.aio-contact-parent .aio-contact-blocks .aio-contact-block .aio-contact-block-icon i {
-font-size: 1.5em;
-color: #fff;
-font-weight: 700;
-}
-
-
-
-.cl-contact-form--style-minimal .wpcf7-form-control:not([type="submit"]) {
-background: none;
-border: none;
-border: 1px solid #cfd1d2;
-}
-.cl-contact-form--style-minimal p {
-text-align: left;
-padding-top: 15px;
-font-style: italic;
-}
-.cl-contact-form--style-minimal input[type="submit"] {
-margin-top: 0px;
-}
-h4:not(.cl-custom-font), .h4, .cl-element h4, .cl-btn--style-only_text {
-font-family: Manrope;
-font-size: 18px;
-font-weight: 500 !important;
-letter-spacing: 1px;
-line-height: 1.2;
-text-transform: uppercase;
-font-size: 17px !important;
-}
-
-
-h1:not(.cl-custom-font), .h1 {
-    font-family: Manrope;
-    font-size: 50px !important;
-    font-weight: 400;
-    letter-spacing: 0px;
-    line-height: 1.2;
-    text-transform: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 6px 40px;
     }
-.cl-header__col--middle {
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    display: none;
-}
-.cl-header--divider .cl-header__row--top .cl-header__col {
-    padding-left: 0px;
-    padding-right: 0px;
-}
-.cl-blog--style-modern .cl-entry__media {
-    height: 350px;
-    position: relative;
-    top: 45px !important
-}
-cl-blog--style-modern .cl-entry__wrapper {
-    flex-direction: row;
-    min-height: 350px !important;
-    max-height: 350px !important;
-    overflow: hidden;
-    flex-wrap: nowrap;
-}
-
-
-
-
-
-
-
+    .cl-btn--style-rounded {
+    border-radius: 0;
+        background-color: transparent !important;
+        color:#202020 !important;
+        font-weight: 300;
+    }
+    .cl-btn--style-rounded:hover {
+    border-radius: 0;
+        background-color: #202020 !important;
+        color:#1E2E3E;
+        font-weight: 300;
+        color: #fff !important;
+    }
+    .column_fluid {
+    position: relative !important;
+    margin-left: -50px !important;
+    z-index: 9999;
+    margin-right: -100px;
+    width: calc(50% + 100px) !important;
+    }
+    .cl-testimonial-top .cl-testimonial-item img {
+    max-width: 130px;
+    margin-bottom: 40px;
+    border-radius: 50% !important;
+    }
+    .cl-entry-single-navigation .single-post-nav__wrapper img {
+    width: 64px;
+    height: 64px;
+    max-width: none;
+    border-radius: 2px;
+    }
+    input:not([type="checkbox"]), textarea, select {
+    
+    font-family: Roboto;
+    }
+    .fas fa-at{
+        color: #fff !important;
+        font-size: 21px !important;
+    }.aio-contact-parent .aio-contact-blocks .aio-contact-block .aio-contact-block-icon i {
+    font-size: 1.5em;
+    color: #fff;
+    font-weight: 700;
+    }
+    
+    
+    
+    .cl-contact-form--style-minimal .wpcf7-form-control:not([type="submit"]) {
+    background: none;
+    border: none;
+    border: 1px solid #cfd1d2;
+    }
+    .cl-contact-form--style-minimal p {
+    text-align: left;
+    padding-top: 15px;
+    font-style: italic;
+    }
+    .cl-contact-form--style-minimal input[type="submit"] {
+    margin-top: 0px;
+    }
+    h4:not(.cl-custom-font), .h4, .cl-element h4, .cl-btn--style-only_text {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 400 !important;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-size: 17px !important;
+    }
+    
+    
+    h1:not(.cl-custom-font), .h1 {
+        font-family: Manrope;
+        font-size: 50px !important;
+        font-weight: 400;
+        letter-spacing: 0px;
+        line-height: 1.2;
+        text-transform: none;
+        }
+    .cl-header__col--middle {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        display: none;
+    }
+    .cl-header--divider .cl-header__row--top .cl-header__col {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    
+    .cl-header__navigation:not(.cl-mobile-menu) .cl-header__menu > li > a, .cl-offcanvas-menu nav ul li a, .cl-fullscreen-overlay__menu li a {
+        font-family: Manrope;
+        font-size: 36px;
+        font-weight: 300 !important;
+        letter-spacing: 3px;
+        line-height: 36px;
+        text-align: center;
+        text-transform: capitalize;
+    }
+    .vc_tta-accordion .vc_tta-panel-heading h4 a span.vc_tta-title-text {
+        font-size: 24px;
+        font-weight: 400 !important;
+        line-height: 30px;
+    }
+    
+    
+    
+    element {
+    
+    }
+    .cl-fullscreen-overlay__menu ul li {
+    
+        line-height: 1;
+    
+    }
+    * {
+    
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    
+    }
+    *, ::before, ::after {
+    
+        box-sizing: inherit;
+    
+    }
+    .cl-fullscreen-overlay__menu ul {
+    
+        text-align: center;
+    
+    }
+    .cl-fullscreen-overlay__menu ul, .cl-header .widget_nav_menu ul, .widget ul {
+    
+        list-style: none;
+    
+    }
+    html, body, blockquote cite a, .cl-blog__title, .woocommerce-loop-product__title {
+    
+        font-family: Manrope;
+        font-size: 18px !important;
+        font-weight: 300;
+        letter-spacing: 0.5px;
+        line-height: 2 !important;
+        text-transform: none;
+    
+    }
+    .cl-footer .cl-footer__col {
+        padding-top: 25px;
+        padding-bottom: 0px;
+    }
+    
+    
